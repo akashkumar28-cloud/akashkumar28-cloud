@@ -19,7 +19,7 @@
 * 📉 Exploring **Tableau** for data visualization
 * 🧹 Interested in data cleaning, transformation, and exploratory analysis
 * 📈 Finding trends, patterns, and business insights
-* 🤖 Exploring Generative AI & AI-powered applications
+* 🤖 Exploring Generative AI 
 * 💼 Building real-world projects to create a strong Data Analytics portfolio
 * 🌱 Continuously learning and improving my technical and analytical skills
 
